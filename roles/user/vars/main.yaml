@@ -1,2 +1,2 @@
-REDIS_HOST: redis.daws84s.site
-MONGODB_HOST: mongodb.daws84s.site
+REDIS_HOST: 172.31.67.192
+MONGODB_HOST: 172.31.69.238
